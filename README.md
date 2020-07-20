@@ -69,6 +69,8 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
 
 - Docker
 
+- RabbitMQ
+
 - Nginx
 
 - Wordpress
