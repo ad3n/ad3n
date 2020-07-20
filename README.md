@@ -41,43 +41,39 @@ Saya juga menulis beberapa buku antara lain [Belajar Santai OOP PHP](https://pla
 
 #### Framework
 
->
-> * CodeIgniter
->
-> * Symfony
->
-> * Laravel
->
-> * jQuery
->
+- CodeIgniter
+
+- Symfony
+
+- Laravel
+
+- jQuery
+
 
 #### Database
 
->
-> * MySQL
->
-> * PostgreSQL
->
-> * Redis
->
-> * MongoDB
->
-> * Elasticsearch
->
+- MySQL
+
+- PostgreSQL
+
+- Redis
+
+- MongoDB - Doctrine ODM
+
+- Elasticsearch
+
 
 #### Lainnya
 
->
-> * Linux
->
-> * Docker
->
-> * Nginx
->
-> * Wordpress
->
-> * Magento
->
+- Linux
+
+- Docker
+
+- Nginx
+
+- Wordpress
+
+- Magento
 
 ## 👷 Proyek Opensource
 
