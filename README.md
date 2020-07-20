@@ -83,7 +83,7 @@ Berikut adalah beberapa proyek opensource yang sedang atau pernah saya kerjakan:
 
 Adalah sebuah skeleton untuk membangun aplikasi berbasis Api lengkap dengan dokumentasinya sesuai dengan standar [Open Api](https://swagger.io/specification) dengan hanya sekali enter.
 
-#### [Semart Skeleton](https://github.com/KejawenLab/SemartSkeleton)
+#### - [Semart Skeleton](https://github.com/KejawenLab/SemartSkeleton)
 
 Adalah sebuah skeleton untuk membangun aplikasi fullstack dengan cepat dan mudah.
 
