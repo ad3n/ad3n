@@ -79,7 +79,7 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
 
 Berikut adalah beberapa proyek opensource yang sedang atau pernah saya kerjakan:
 
-#### [Semart Api Skeleton](https://github.com/KejawenLab/SemartApiSkeleton)
+#### - [Semart Api Skeleton](https://github.com/KejawenLab/SemartApiSkeleton)
 
 Adalah sebuah skeleton untuk membangun aplikasi berbasis Api lengkap dengan dokumentasinya sesuai dengan standar [Open Api](https://swagger.io/specification) dengan hanya sekali enter.
 
@@ -87,11 +87,11 @@ Adalah sebuah skeleton untuk membangun aplikasi berbasis Api lengkap dengan doku
 
 Adalah sebuah skeleton untuk membangun aplikasi fullstack dengan cepat dan mudah.
 
-#### [Semart Api Gateway](https://github.com/KejawenLab/SemartApiGateway)
+#### - [Semart Api Gateway](https://github.com/KejawenLab/SemartApiGateway)
 
 Adalah Api Gateway yang ditulis dengan menggunakan PHP yang simpel namun tetap powerful.
 
-#### [Nusantara](https://github.com/KejawenLab/Nusantara)
+#### - [Nusantara](https://github.com/KejawenLab/Nusantara)
 
 Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan hingga Propinsi.
 
