@@ -109,20 +109,3 @@ Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan
 
 - Github: [Tawaran Kerjasama](https://github.com/ad3n/ad3n/issues/new)
 
-## 🕹 Ekosistem Symfony
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="50%" align="center" style="padding-bottom: 17px">
-        <span>Api Platform</span><br><br> 
-        <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/api-platform.png">
-      </td>
-      <td width="50%" align="center">
-        <span>Doctrine</span><br><br> 
-        <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/doctrine.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
