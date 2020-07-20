@@ -9,7 +9,7 @@ Saya juga menulis beberapa buku antara lain [Belajar Santai OOP PHP](https://pla
 <table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center" style="padding-bottom: 30px">
+      <td width="20%" align="center" style="padding-bottom: 17px">
         <span>Symfony</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/symfony.png">
       </td>
@@ -110,8 +110,9 @@ Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan
 - Github: [Tawaran Kerjasama](https://github.com/ad3n/ad3n/issues/new)
 
 ## 🕹 Fakta Menarik
-
+<p align="center">
 ![Badges](https://github.com/ad3n/ad3n/blob/master/assets/badges.png)
+</p>
 
 ![Github](https://github-readme-stats.vercel.app/api?username=ad3n&hide=["issues"]&show_icons=true)
 
