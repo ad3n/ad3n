@@ -103,11 +103,11 @@ Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan
 
 ## 📝 Buku
 
-- [Belajar Santai OOP PHP](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Belajar_Santai_OOP_PHP)
+- [Belajar Santai OOP PHP](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Belajar_Santai_OOP_PHP?id=CZeiDwAAQBAJ)
 
-- [Pemrograman Berbasis Objek Modern dengann PHP](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Pemrograman_Berbasis_Objek)
+- [Pemrograman Berbasis Objek Modern dengann PHP](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Pemrograman_Berbasis_Objek?id=CZeiDwAAQBAJ)
 
-- [Menguasai Framework Symfony](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Menguasai_Framework_Symfon)
+- [Menguasai Framework Symfony](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Menguasai_Framework_Symfon?id=CZeiDwAAQBAJ)
 
 ## 📫 Pekerjakan Saya
 
