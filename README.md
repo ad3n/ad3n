@@ -9,23 +9,23 @@ Saya juga menulis beberapa buku antara lain [Belajar Santai OOP PHP](https://pla
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom: 30px">
+      <td width="20%" align="center" style="padding-bottom: 30px">
         <span>Symfony</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/symfony.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Linux</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/linux.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Nginx</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/nginx.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Magento</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/magento.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Docker</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/docker.png">
       </td>
@@ -33,15 +33,13 @@ Saya juga menulis beberapa buku antara lain [Belajar Santai OOP PHP](https://pla
   </tbody>
 </table>
 
-### Bahasa Pemrograman
+#### Bahasa Pemrograman
 
->
-> * PHP
->
-> * Javascript
->
+- PHP
 
-### Framework
+- Javascript
+
+#### Framework
 
 >
 > * CodeIgniter
@@ -53,7 +51,7 @@ Saya juga menulis beberapa buku antara lain [Belajar Santai OOP PHP](https://pla
 > * jQuery
 >
 
-### Database
+#### Database
 
 >
 > * MySQL
@@ -67,7 +65,7 @@ Saya juga menulis beberapa buku antara lain [Belajar Santai OOP PHP](https://pla
 > * Elasticsearch
 >
 
-### Lainnya
+#### Lainnya
 
 >
 > * Linux
@@ -85,19 +83,19 @@ Saya juga menulis beberapa buku antara lain [Belajar Santai OOP PHP](https://pla
 
 Berikut adalah beberapa proyek opensource yang sedang atau pernah saya kerjakan:
 
-### [Semart Api Skeleton](https://github.com/KejawenLab/SemartApiSkeleton)
+#### [Semart Api Skeleton](https://github.com/KejawenLab/SemartApiSkeleton)
 
 Adalah sebuah skeleton untuk membangun aplikasi berbasis Api lengkap dengan dokumentasinya sesuai dengan standar [Open Api](https://swagger.io/specification) dengan hanya sekali enter.
 
-### [Semart Skeleton](https://github.com/KejawenLab/SemartSkeleton)
+#### [Semart Skeleton](https://github.com/KejawenLab/SemartSkeleton)
 
 Adalah sebuah skeleton untuk membangun aplikasi fullstack dengan cepat dan mudah.
 
-### [Semart Api Gateway](https://github.com/KejawenLab/SemartApiGateway)
+#### [Semart Api Gateway](https://github.com/KejawenLab/SemartApiGateway)
 
 Adalah Api Gateway yang ditulis dengan menggunakan PHP yang simpel namun tetap powerful.
 
-### [Nusantara](https://github.com/KejawenLab/Nusantara)
+#### [Nusantara](https://github.com/KejawenLab/Nusantara)
 
 Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan hingga Propinsi.
 
@@ -116,6 +114,4 @@ Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan
 - Github: [Tawaran Kerjasama](https://github.com/ad3n/ad3n/issues/new)
 
 ![Github](https://github-readme-stats.vercel.app/api?username=ad3n&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ad3n.ad3n)
 
