@@ -31,6 +31,10 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
         <span>Docker</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/docker.png">
       </td>
+      <td width="20%" align="center">
+        <span>Docker</span><br><br> 
+        <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/docker.png">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -38,6 +42,8 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
 #### Bahasa Pemrograman
 
 - PHP
+
+- Go
 
 - Javascript
 
