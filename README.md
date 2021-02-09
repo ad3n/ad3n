@@ -33,7 +33,7 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
       </td>
       <td width="16.7%" align="center">
         <span>Docker</span><br><br> 
-        <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/docker.png">
+        <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/golang.png">
       </td>
     </tr>
   </tbody>
