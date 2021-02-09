@@ -9,29 +9,29 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
 ## 🤖 Keahlian
 
 <table>
-  <tbody>
+  <tbody width="100%">
     <tr valign="top">
-      <td width="20%" align="center" style="padding-bottom: 17px">
+      <td width="17%" align="center" style="padding-bottom: 17px">
         <span>Symfony</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/symfony.png">
       </td>
-      <td width="20%" align="center">
+      <td width="17%" align="center">
         <span>Linux</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/linux.png">
       </td>
-      <td width="20%" align="center">
+      <td width="17%" align="center">
         <span>Nginx</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/nginx.png">
       </td>
-      <td width="20%" align="center">
+      <td width="17%" align="center">
         <span>Magento</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/magento.png">
       </td>
-      <td width="20%" align="center">
+      <td width="17%" align="center">
         <span>Docker</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/docker.png">
       </td>
-      <td width="20%" align="center">
+      <td width="17%" align="center">
         <span>Docker</span><br><br> 
         <img height="64px" src="https://github.com/ad3n/ad3n/blob/master/assets/docker.png">
       </td>
