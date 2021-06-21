@@ -105,6 +105,21 @@ Adalah Api Gateway yang ditulis dengan menggunakan PHP yang simpel namun tetap p
 
 Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan hingga Propinsi.
 
+
+#### - [Blurry Detection](https://github.com/KejawenLab/BlurryDetection)
+
+Adalah library untuk mendeteksi sebuah gambar (image) apakah blur atau tidak.
+
+
+#### - [Microservices](https://github.com/ad3n/Microservices)
+
+Adalah demo fully isolated system architecture untuk lingkungan microservices.
+
+
+#### - [Bima](https://github.com/KejawenLab/bima)
+
+Adalah framework yang ditulis dengan bahasa Golang untuk mempercepat proses development.
+
 ## 📝 Buku
 
 - [Belajar Santai OOP PHP](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Belajar_Santai_OOP_PHP?id=CZeiDwAAQBAJ)
