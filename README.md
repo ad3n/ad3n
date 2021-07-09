@@ -115,11 +115,6 @@ Adalah library untuk mendeteksi sebuah gambar (image) apakah blur atau tidak.
 
 Adalah demo fully isolated system architecture untuk lingkungan microservices.
 
-
-#### - [Bima](https://github.com/KejawenLab/bima)
-
-Adalah framework yang ditulis dengan bahasa Golang untuk mempercepat proses development.
-
 ## 📝 Buku
 
 - [Belajar Santai OOP PHP](https://play.google.com/store/books/details/Muhamad_Surya_Iksanudin_Belajar_Santai_OOP_PHP?id=CZeiDwAAQBAJ)
