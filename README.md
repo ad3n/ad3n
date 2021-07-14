@@ -1,8 +1,8 @@
 ## 🧔 Muhamad Surya Iksanudin
 
-Perkenalkan nama saya **Muhamad Surya Iksanudin**. Saya adalah **Backend Developer** khususnya PHP menggunakan **Framework Symfony**. Saya terbiasa bekerja pada lingkungan **Linux** terutama **Ubuntu** dan turunannya. 
+Perkenalkan nama saya **Muhamad Surya Iksanudin**. Saya adalah **Backend Developer** khususnya PHP menggunakan **Symfony Framework** dan juga Golang menggunakan **Fiber Framework**. Saya terbiasa bekerja pada lingkungan **Linux** terutama **Ubuntu** dan turunannya. 
 
-Saya sangat tertarik dengan **Teknologi Backend**, **System Administrator**, dan **Web Scrapping**. Saya memiliki pengetahuan yang mendalam terhadap konsep OOP terutama implementasinya menggunakan bahasa PHP.
+Saya sangat tertarik dengan **Enterprise Architecture**, **Teknologi Backend**, **System Administrator**, dan **Web Scrapping**. Saya juga memiliki pengetahuan yang mendalam terhadap konsep OOP terutama implementasinya menggunakan bahasa PHP.
 
 Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource yang saya kembangkan baik pada halaman [Github Pribadi](https://github.com/ad3n) maupun [Organisasi](https://github.com/KejawenLab) yang saya kelola.
 
@@ -54,6 +54,10 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
 - Symfony
 
 - Laravel
+
+- Fiber
+
+- Gin
 
 - jQuery
 
