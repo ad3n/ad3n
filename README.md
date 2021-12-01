@@ -45,6 +45,8 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
 
 - Go
 
+- Java
+
 - Javascript
 
 #### Framework
@@ -58,6 +60,8 @@ Saya senang berbagi pengetahuan dan pengalaman saya melalui proyek Opensource ya
 - Fiber
 
 - Gin
+
+- Spring
 
 - jQuery
 
