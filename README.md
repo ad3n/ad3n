@@ -133,7 +133,7 @@ Adalah demo fully isolated system architecture untuk lingkungan microservices.
 
 ## 📞 Pekerjakan Saya
 
-- Email: [surya.kejawen@gmail.com](mailto:surya.kejawen@gmail.com)
+- Email: [surya.iksanudin@gmail.com](mailto:surya.iksanudin@gmail.com)
 
 - Github: [Tawaran Kerjasama](https://github.com/ad3n/ad3n/issues/new)
 
