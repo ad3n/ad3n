@@ -99,11 +99,7 @@ Berikut adalah beberapa proyek opensource yang sedang atau pernah saya kerjakan:
 
 #### - [Semart Api Skeleton](https://github.com/KejawenLab/SemartApiSkeleton)
 
-Adalah sebuah skeleton untuk membangun aplikasi berbasis Api lengkap dengan dokumentasinya sesuai dengan standar [Open Api](https://swagger.io/specification) dengan hanya sekali enter.
-
-#### - [Semart Skeleton](https://github.com/KejawenLab/SemartSkeleton)
-
-Adalah sebuah skeleton untuk membangun aplikasi fullstack dengan cepat dan mudah.
+Adalah sebuah skeleton untuk membangun aplikasi administratif dan Api-nya lengkap dengan dokumentasi sesuai dengan standar [Open Api](https://swagger.io/specification) dengan hanya sekali enter.
 
 #### - [Semart Api Gateway](https://github.com/KejawenLab/SemartApiGateway)
 
@@ -113,15 +109,18 @@ Adalah Api Gateway yang ditulis dengan menggunakan PHP yang simpel namun tetap p
 
 Adalah script scrapping data daerah di Indonesia mulai dari level Desa/Kelurahan hingga Propinsi.
 
-
 #### - [Blurry Detection](https://github.com/KejawenLab/BlurryDetection)
 
 Adalah library untuk mendeteksi sebuah gambar (image) apakah blur atau tidak.
 
-
 #### - [Microservices](https://github.com/ad3n/Microservices)
 
 Adalah demo fully isolated system architecture untuk lingkungan microservices.
+
+#### - [Bima Framework](https://github.com/bimalabs)
+
+Adalah Framework Golang yang dikhususkan untuk membangun aplikasi berbasis Api dan gRPC secara singkat dan solid.
+
 
 ## 📝 Buku
 
